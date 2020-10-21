@@ -137,3 +137,7 @@ buffer 每 refresh 一次，就会产生一个 `segment file` ，所以默认情
 - 倒排索引中的词项**根据字典顺序升序排列**
 
 > 上面只是一个简单的栗子，并没有严格按照字典顺序升序排列。
+#### [深入分析ES存储原理](https://my.oschina.net/u/4555989/blog/4467361)
+#### [lucene字典实现原理——FST](https://www.cnblogs.com/bonelee/p/6226185.html)
+#### [关于Lucene的词典FST深入剖析](https://www.shenyanchao.cn/blog/2018/12/04/lucene-fst)
+#### [Build FST](http://examples.mikemccandless.com/fst.py?terms=&cmd=Build+it)
